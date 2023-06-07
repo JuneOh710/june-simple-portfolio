@@ -4,6 +4,7 @@ title:
 theme: PaperMod
 Copyright: '© June 2023'
 canonifyurls: true
+publishDir: "docs"
 params:
   homeInfoParams:
     Title: "June Oh"
