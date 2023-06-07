@@ -1,0 +1,19 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: 
+theme: PaperMod
+params:
+  homeInfoParams:
+    Title: "June Oh"
+    Content: "CS student @ UofT with a focus in Software Engineering."
+  socialIcons:
+    - name: github
+      url: 'https://github.com/JuneOh710'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/juneoh710/'
+    - name: email
+      url: 'mailto:haejune.oh@mail.utoronto.ca'
+    - name: dev
+      url: 'https://devpost.com/JuneOh710?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav'
+  assets:
+    disableHLJS: true
