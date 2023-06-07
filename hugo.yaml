@@ -1,7 +1,9 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://juneoh710.github.io/'
 languageCode: en-us
 title: 
 theme: PaperMod
+Copyright: '© June 2023'
+canonifyurls: true
 params:
   homeInfoParams:
     Title: "June Oh"
